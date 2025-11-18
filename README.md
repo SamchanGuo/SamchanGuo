@@ -4,7 +4,7 @@
 
 <!-- 第一部分：最常用语言统计卡片 -->
 <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamchanGuo&hide_title=true&layout=compact&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="137px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamchanGuo&layout=compact" height="137px" />
 </span>
 
 <!-- 第二部分：GitHub 总体数据统计卡片 -->
